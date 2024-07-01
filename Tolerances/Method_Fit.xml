@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Method_Fit> 
+<Designer>Zaifen King Loeza</Designer>
+<Types>
+     <Type_Fit>
+        <Name>Clearance (Loose Running Fit)</Name>
+        <Symbol>H11/c11</Symbol>
+        <Description>For wide commercial tolerances or allowances on external members</Description>
+        <IT_Hole_Column>5</IT_Hole_Column>
+        <Shaft_Fundamental_Column>0</Shaft_Fundamental_Column>
+        <Group>a</Group>
+        <IT_Shaft_Column>5</IT_Shaft_Column>
+    </Type_Fit>
+
+     <Type_Fit>
+        <Name>Clearance (Free Running Fit)</Name>
+        <Symbol>H9/d9</Symbol>
+        <Description>Not for use where accuracy is essential, but good for large temperature variations, high running speeds, or heavy journal pressures</Description>
+        <IT_Hole_Column>3</IT_Hole_Column>
+        <Shaft_Fundamental_Column>1</Shaft_Fundamental_Column>
+        <Group>a</Group>
+        <IT_Shaft_Column>3</IT_Shaft_Column>
+    </Type_Fit>
+
+   <Type_Fit>
+        <Name>Clearance (Close Running Fit)</Name>
+        <Symbol>H8/f7</Symbol>
+        <Description>For running on accurate machines and for accurate location at moderate speeds and journal pressures</Description>
+        <IT_Hole_Column>2</IT_Hole_Column>
+        <Shaft_Fundamental_Column>2</Shaft_Fundamental_Column>
+        <Group>a</Group>
+        <IT_Shaft_Column>1</IT_Shaft_Column>
+    </Type_Fit>
+    
+    <Type_Fit>
+        <Name>Clearance (Sliding Fit)</Name>
+        <Symbol>H7/g6</Symbol>
+        <Description>Where parts are not intended to run freely, but must move and turn freely and locate accurately</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>3</Shaft_Fundamental_Column>
+        <Group>a</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+    
+    <Type_Fit>
+        <Name>Clearance (Locational Fit)</Name>
+        <Symbol>H7/h6</Symbol>
+        <Description>Provides snug fit for location of stationary parts, but can be freely assembled and disassembled</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>4</Shaft_Fundamental_Column>
+        <Group>a</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+     <Type_Fit>
+        <Name>Transition (Locational A)</Name>
+        <Symbol>H7/k6</Symbol>
+        <Description>For accurate location, a compromise between clearance and interference</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>5</Shaft_Fundamental_Column>
+        <Group>b</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+    <Type_Fit>
+        <Name>Transition (Locational B)</Name>
+        <Symbol>H7/n6</Symbol>
+        <Description>For more accurate location where greater interference is permissible</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>6<0/Shaft_Fundamental_Column>
+        <Group>b</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+    <Type_Fit>
+        <Name>Interference (Locational Fit)</Name>
+        <Symbol>H7/p6</Symbol>
+        <Description>For parts requiring rigidity and alignment with prime accuracy of location but without special bore pressure requirements</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>7<0/Shaft_Fundamental_Column>
+        <Group>b</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+    
+    <Type_Fit>
+        <Name>Interference (Force Fit)</Name>
+        <Symbol>H7/s6</Symbol>
+        <Description>For ordinary steel parts or shrink fits on light sections, the tightest fit usable with cast iron</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>8<0/Shaft_Fundamental_Column>
+        <Group>b</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+  <Type_Fit>
+        <Name>Interference (Medium Drive Fit)</Name>
+        <Symbol>H7/u6</Symbol>
+        <Description>Suitable for parts that can be highly stressed or for shrink fits where the heavy pressing forces required are impractical</Description>
+        <IT_Hole_Column>1</IT_Hole_Column>
+        <Shaft_Fundamental_Column>9<0/Shaft_Fundamental_Column>
+        <Group>b</Group>
+        <IT_Shaft_Column>0</IT_Shaft_Column>
+    </Type_Fit>
+
+</Types>
+</Method_Fit>
