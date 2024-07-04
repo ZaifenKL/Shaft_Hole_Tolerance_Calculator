@@ -28,6 +28,7 @@
 			<Item Name="Find_Row_Shaft_in.vi" Type="VI" URL="../Subvi/Find_Row_Shaft_in.vi"/>
 			<Item Name="GetPaths.vi" Type="VI" URL="../Subvi/GetPaths.vi"/>
 			<Item Name="help.vi" Type="VI" URL="../Subvi/help.vi"/>
+			<Item Name="Initialize.vi" Type="VI" URL="../Subvi/Initialize.vi"/>
 			<Item Name="Read_Txt_File.vi" Type="VI" URL="../Subvi/Read_Txt_File.vi"/>
 			<Item Name="Read_Xml_Experiment.vi" Type="VI" URL="../Subvi/Read_Xml_Experiment.vi"/>
 			<Item Name="ReadTxt_Tol_Table.vi" Type="VI" URL="../Subvi/ReadTxt_Tol_Table.vi"/>
@@ -51,13 +52,15 @@
 			<Item Name="Method_Info.ctl" Type="VI" URL="../TypeDef/Method_Info.ctl"/>
 			<Item Name="Shaft_Data.ctl" Type="VI" URL="../TypeDef/Shaft_Data.ctl"/>
 			<Item Name="State.ctl" Type="VI" URL="../TypeDef/State.ctl"/>
-			<Item Name="Type_Fit.ctl" Type="VI" URL="../TypeDef/Type_Fit.ctl"/>
+			<Item Name="Type_Fit_Enum.ctl" Type="VI" URL="../TypeDef/Type_Fit_Enum.ctl"/>
 			<Item Name="Units.ctl" Type="VI" URL="../TypeDef/Units.ctl"/>
 		</Item>
 		<Item Name="Xml" Type="Folder">
 			<Item Name="Type_Fit.xml" Type="Document" URL="../Xml/Type_Fit.xml"/>
 		</Item>
-		<Item Name="Initialize.vi" Type="VI" URL="../Subvi/Initialize.vi"/>
+		<Item Name="Get_IT_Hole.vi" Type="VI" URL="../Subvi/Get_IT_Hole.vi"/>
+		<Item Name="Get_Shaft_Fundamental.vi" Type="VI" URL="../Subvi/Get_Shaft_Fundamental.vi"/>
+		<Item Name="Get_Shaft_IT_Grade.vi" Type="VI" URL="../Subvi/Get_Shaft_IT_Grade.vi"/>
 		<Item Name="Main_VI.vi" Type="VI" URL="../Main_VI.vi"/>
 		<Item Name="Project_Configuration.ini" Type="Document" URL="../Project_Configuration.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
