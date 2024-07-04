@@ -1,12 +1,13 @@
-1) Type fit: assembly condition between a hole and a shaft.
+1) Type fit: condition between a hole and a shaft that are intended to fit together.
 
-2) Base Size: is the size to which limits or deviations are assigned and is the same for both members of the fit. 
+2) Base Size: the theorical or target dimension of the hole and shaft before tolerances.
 
 3) Deviation: is the algebraic difference between a size and the corresponding basic size.
 
 4) Fundamental deviation: either the upper or the lower deviation, depending on which is closer to the basic size.
 
-5) Tolerance: the difference between the maximum and minimum size limits of a part.
+5) Tolerance: the permissible range of sizes for the designed part.
 
-6) IT Grade: International Tolerance Grade numbers (IT) designate groups of tolerances such that the tolerances for a particular IT number have the same relative level of accuracy but vary depending on the basic size.The standard uses capital letters for holes and lowercase letters for shaft.
+6) IT Grade: International Tolerance Grade numbers (IT) are groups of tolerances that provide a way to specify the precision of the manufacturing process of the designed part. 
+             The standard uses capital letters for holes and lowercase letters for shaft, lower IT Grades imply higher precision.
 
