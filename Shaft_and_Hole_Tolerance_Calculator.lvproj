@@ -57,6 +57,7 @@
 		<Item Name="Xml" Type="Folder">
 			<Item Name="Type_Fit.xml" Type="Document" URL="../Xml/Type_Fit.xml"/>
 		</Item>
+		<Item Name="Initialize.vi" Type="VI" URL="../Subvi/Initialize.vi"/>
 		<Item Name="Main_VI.vi" Type="VI" URL="../Main_VI.vi"/>
 		<Item Name="Project_Configuration.ini" Type="Document" URL="../Project_Configuration.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
