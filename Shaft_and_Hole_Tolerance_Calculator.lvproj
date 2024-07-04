@@ -26,6 +26,9 @@
 			<Item Name="Find_Row_ITG-mm.vi" Type="VI" URL="../Subvi/Find_Row_ITG-mm.vi"/>
 			<Item Name="Find_Row_Shaft-mm.vi" Type="VI" URL="../Subvi/Find_Row_Shaft-mm.vi"/>
 			<Item Name="Find_Row_Shaft_in.vi" Type="VI" URL="../Subvi/Find_Row_Shaft_in.vi"/>
+			<Item Name="Get_IT_Hole.vi" Type="VI" URL="../Subvi/Get_IT_Hole.vi"/>
+			<Item Name="Get_Shaft_Fundamental.vi" Type="VI" URL="../Subvi/Get_Shaft_Fundamental.vi"/>
+			<Item Name="Get_Shaft_IT_Grade.vi" Type="VI" URL="../Subvi/Get_Shaft_IT_Grade.vi"/>
 			<Item Name="GetPaths.vi" Type="VI" URL="../Subvi/GetPaths.vi"/>
 			<Item Name="help.vi" Type="VI" URL="../Subvi/help.vi"/>
 			<Item Name="Initialize.vi" Type="VI" URL="../Subvi/Initialize.vi"/>
@@ -58,9 +61,7 @@
 		<Item Name="Xml" Type="Folder">
 			<Item Name="Type_Fit.xml" Type="Document" URL="../Xml/Type_Fit.xml"/>
 		</Item>
-		<Item Name="Get_IT_Hole.vi" Type="VI" URL="../Subvi/Get_IT_Hole.vi"/>
-		<Item Name="Get_Shaft_Fundamental.vi" Type="VI" URL="../Subvi/Get_Shaft_Fundamental.vi"/>
-		<Item Name="Get_Shaft_IT_Grade.vi" Type="VI" URL="../Subvi/Get_Shaft_IT_Grade.vi"/>
+		<Item Name="Center_Prompt.vi" Type="VI" URL="../Subvi/Center_Prompt.vi"/>
 		<Item Name="Main_VI.vi" Type="VI" URL="../Main_VI.vi"/>
 		<Item Name="Project_Configuration.ini" Type="Document" URL="../Project_Configuration.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -133,6 +134,7 @@
 				<Item Name="Get Root Elements__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Get Root Elements__JKI EasyXML.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get Stylesheet MIME Type from File Extension__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Get Stylesheet MIME Type from File Extension__JKI EasyXML.vi"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Get Tag Content__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Get Tag Content__JKI EasyXML.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Get UTC Offset__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Get UTC Offset__JKI EasyXML.vi"/>
@@ -172,6 +174,7 @@
 				<Item Name="Not A Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Not A Semaphore.vi"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Obtain Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Obtain Semaphore Reference.vi"/>
+				<Item Name="OffsetRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/OffsetRect.vi"/>
 				<Item Name="Panel.lvlib" Type="Library" URL="/&lt;vilib&gt;/MGI/Panel Manager/Panel/Panel.lvlib"/>
 				<Item Name="Parse XML dateTime String__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Parse XML dateTime String__JKI EasyXML.vi"/>
 				<Item Name="Parse XML for Tags__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Parse XML for Tags__JKI EasyXML.vi"/>
@@ -198,6 +201,8 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
 				<Item Name="Set VISA IO Session String__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Set VISA IO Session String__JKI EasyXML.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>

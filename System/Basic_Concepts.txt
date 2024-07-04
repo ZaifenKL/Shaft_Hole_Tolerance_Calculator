@@ -8,6 +8,5 @@
 
 5) Tolerance: the permissible range of sizes for the designed part.
 
-6) IT Grade: International Tolerance Grade numbers (IT) are groups of tolerances that provide a way to specify the precision of the manufacturing process of the designed part. 
-             The standard uses capital letters for holes and lowercase letters for shaft, lower IT Grades imply higher precision.
+6) IT Grade: International Tolerance Grade numbers (IT) are groups of tolerances that provide a way to specify the precision of the manufacturing process of the designed part.The standard uses capital letters for holes and lowercase letters for shaft, lower IT Grades imply higher precision.
 
