@@ -23,6 +23,7 @@
 			<Item Name="Calculate_Tolerance.vi" Type="VI" URL="../Subvi/Calculate_Tolerance.vi"/>
 			<Item Name="Center_Prompt.vi" Type="VI" URL="../Subvi/Center_Prompt.vi"/>
 			<Item Name="Display_Values.vi" Type="VI" URL="../Subvi/Display_Values.vi"/>
+			<Item Name="Experiment_3D_drawing.vi" Type="VI" URL="../Subvi/Experiment_3D_drawing.vi"/>
 			<Item Name="Experiment_Write_XML.vi" Type="VI" URL="../Subvi/Experiment_Write_XML.vi"/>
 			<Item Name="Find_Row_ITG-mm.vi" Type="VI" URL="../Subvi/Find_Row_ITG-mm.vi"/>
 			<Item Name="Find_Row_Shaft-mm.vi" Type="VI" URL="../Subvi/Find_Row_Shaft-mm.vi"/>
@@ -62,7 +63,6 @@
 		<Item Name="Xml" Type="Folder">
 			<Item Name="Type_Fit.xml" Type="Document" URL="../Xml/Type_Fit.xml"/>
 		</Item>
-		<Item Name="Experiment_3D_drawing.vi" Type="VI" URL="../Subvi/Experiment_3D_drawing.vi"/>
 		<Item Name="Main_VI.vi" Type="VI" URL="../Main_VI.vi"/>
 		<Item Name="Project_Configuration.ini" Type="Document" URL="../Project_Configuration.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -237,6 +237,7 @@
 				<Item Name="XML Structure - Cluster__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Structure - Cluster__JKI EasyXML.ctl"/>
 				<Item Name="XML Tag Type - Enum__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Tag Type - Enum__JKI EasyXML.ctl"/>
 			</Item>
+			<Item Name="Check_Needed_Files.vi" Type="VI" URL="../Subvi/Check_Needed_Files.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
